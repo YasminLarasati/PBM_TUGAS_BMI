@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PBM_TUGAS_BMI</string>
+    <string name="selected_item">Kategori : </string>
+
+    <string-array name="Kategori">
+        <item>Dewasa</item>
+        <item>Anak-Anak</item>
+    </string-array>
+</resources>
